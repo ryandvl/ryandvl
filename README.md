@@ -48,7 +48,7 @@
   <source
     media="(prefers-color-scheme: light)"
     height="215px"
-    srcset="https://i.imgur.com/RTprYjA.png"
+    srcset="https://i.imgur.com/KayuAOw.png"
   >
   <img alt="Favorite Languages">
 </picture>
