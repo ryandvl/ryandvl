@@ -41,18 +41,56 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="215px"
+    height="250px"
     srcset="https://i.imgur.com/VhK0mZG.png">
 "
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="215px"
+    height="250px"
     srcset="https://i.imgur.com/K5hIDZE.png"
   >
-  <img alt="Favorite Languages">
+  <img align="left" alt="Favorite Languages">
 </picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    height="600px"
+    srcset="https://i.imgur.com/H2PGkM0.png">
+"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    height="600px"
+    srcset="https://i.imgur.com/H2PGkM0.png"
+  >
+  <img align="right" alt="Banner">
+</picture>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
