@@ -42,12 +42,13 @@
   <source
     media="(prefers-color-scheme: dark)"
     height="215px"
-    srcset="https://i.imgur.com/6ny1HFB.png"
+    srcset="https://github.com/user-attachments/assets/3e49ba11-cf69-44c7-9437-fad7b9709461">
+"
   >
   <source
     media="(prefers-color-scheme: light)"
     height="215px"
-    srcset="https://i.imgur.com/6ny1HFB.png"
+    srcset="https://github.com/user-attachments/assets/3e49ba11-cf69-44c7-9437-fad7b9709461"
   >
   <img alt="Favorite Languages">
 </picture>
