@@ -2,7 +2,7 @@
 <a href="./README.md">
   <picture>
     <source
-      height="30"
+      height="30px"
       srcset="./flag_en-US.png"
     >
     <img alt="English (en-US)">
@@ -11,7 +11,7 @@
 <a href="./README_pt-BR.md">
   <picture>
     <source
-      height="30"
+      height="30px"
       srcset="./flag_pt-BR.png"
     >
     <img alt="Português do Brasil (pt-BR)">
