@@ -1,10 +1,18 @@
 <!-- TRANSLATIONS -->
 <a href="./README.md">
-  <img
-    height="30px"
-    src="./flag_en-US.png"
-    alt="English (en-US"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      height="24px"
+      src="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      height="24px"
+      src="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
+    >
+    <img alt="English (en-US)">
+  </picture>
 </a>
 <a href="./README_pt-BR.md">
   <picture>
