@@ -38,21 +38,7 @@
 
 <span>Welcome to my profile!</span>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    height="215px"
-    srcset="https://i.imgur.com/VhK0mZG.png">
-"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    height="215px"
-    srcset="https://i.imgur.com/K5hIDZE.png"
-  >
-  <img align="left" alt="Favorite Languages">
-</picture>
-
+<!-- BANNER -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -66,6 +52,22 @@
     srcset="https://i.imgur.com/H2PGkM0.png"
   >
   <img align="right" alt="Banner">
+</picture>
+
+<!-- FAVORITE LANGUAGES -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    height="215px"
+    srcset="https://i.imgur.com/VhK0mZG.png">
+"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    height="215px"
+    srcset="https://i.imgur.com/K5hIDZE.png"
+  >
+  <img align="left" alt="Favorite Languages">
 </picture>
 
 <br />
