@@ -41,12 +41,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="180px"
+    height="215px"
     srcset="https://i.imgur.com/DdUcyNC.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="180px"
+    height="215px"
     srcset="https://i.imgur.com/DdUcyNC.png"
   >
   <img alt="Favorite Languages">
