@@ -1,20 +1,20 @@
 <!-- TRANSLATIONS -->
 <a href="./README.md">
   <picture>
-      <img
-        height="24px"
-        src="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
-        alt="English (en-US)"
-      >
+    <source
+      height="24"
+      srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
+    >
+    <img alt="English (en-US)">
   </picture>
 </a>
 <a href="./README_pt-BR.md">
   <picture>
-    <img
-      height="24px"
-      src="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/br.svg"
-      alt="Português do Brasil (pt-BR)"
+    <source
+      height="24"
+      srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/br.svg"
     >
+    <img alt="Português do Brasil (pt-BR)">
   </picture>
 </a>
 
@@ -35,11 +35,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=0072b1&logoColor=white">
+      srcset="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=0072b1&logoColor=white"
+    >
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&color=960096&logoColor=white"
-      >
+    >
     <img alt="Linkedin">
   </picture>
 </a>
@@ -49,11 +50,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&color=cc3534&logoColor=white">
+      srcset="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&color=cc3534&logoColor=white"
+    >
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&color=cc3534&logoColor=white"
-      >
+    >
     <img alt="npm">
   </picture>
 </a>
@@ -63,11 +65,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/artstation-white?style=for-the-badge&logo=artstation&color=0099e5&logoColor=white">
+      srcset="https://img.shields.io/badge/artstation-white?style=for-the-badge&logo=artstation&color=0099e5&logoColor=white"
+    >
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://img.shields.io/badge/artstation-white?style=for-the-badge&logo=artstation&color=0099e5&logoColor=white"
-      >
+    >
     <img alt="ArtStation">
   </picture>
 </a>
