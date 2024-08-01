@@ -42,12 +42,12 @@
   <source
     media="(prefers-color-scheme: dark)"
     height="215px"
-    srcset="https://i.imgur.com/DdUcyNC.png"
+    srcset="https://i.imgur.com/6ny1HFB.png"
   >
   <source
     media="(prefers-color-scheme: light)"
     height="215px"
-    srcset="https://i.imgur.com/DdUcyNC.png"
+    srcset="https://i.imgur.com/6ny1HFB.png"
   >
   <img alt="Favorite Languages">
 </picture>
