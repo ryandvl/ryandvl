@@ -42,19 +42,21 @@
   <source
     media="(prefers-color-scheme: dark)"
     height="215px"
-    srcset="https://i.imgur.com/wdAC0Xp.png">
+    srcset="https://i.imgur.com/RTprYjA.png">
 "
   >
   <source
     media="(prefers-color-scheme: light)"
     height="215px"
-    srcset="https://i.imgur.com/wdAC0Xp.png"
+    srcset="https://i.imgur.com/RTprYjA.png"
   >
   <img alt="Favorite Languages">
 </picture>
 
 <br />
 <br />
+
+<h2>Contact</h2>
 
 <!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/ryandvl" target="_blank">
