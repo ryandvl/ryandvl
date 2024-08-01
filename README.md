@@ -70,17 +70,6 @@
   <img align="left" alt="Favorite Languages">
 </picture>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 <!-- WORK FRAMEWORKS -->
 <picture>
   <source
