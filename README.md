@@ -43,8 +43,7 @@
   <source
     media="(prefers-color-scheme: dark)"
     height="600px"
-    srcset="https://i.imgur.com/H2PGkM0.png">
-"
+    srcset="https://i.imgur.com/H2PGkM0.png"
   >
   <source
     media="(prefers-color-scheme: light)"
@@ -59,8 +58,7 @@
   <source
     media="(prefers-color-scheme: dark)"
     height="215px"
-    srcset="https://i.imgur.com/VhK0mZG.png">
-"
+    srcset="https://i.imgur.com/VhK0mZG.png"
   >
   <source
     media="(prefers-color-scheme: light)"
@@ -75,8 +73,7 @@
   <source
     media="(prefers-color-scheme: dark)"
     height="215px"
-    srcset="https://i.imgur.com/ddhMArB.png">
-"
+    srcset="https://i.imgur.com/ddhMArB.png"
   >
   <source
     media="(prefers-color-scheme: light)"
@@ -86,6 +83,9 @@
   <img align="left" alt="Work Frameworks">
 </picture>
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
