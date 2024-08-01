@@ -1,12 +1,10 @@
 <!-- TRANSLATIONS -->
 <a href="./README.md">
-  <picture>
-    <source
-      height="30px"
-      srcset="./flag_en-US.png"
-    >
-    <img alt="English (en-US)">
-  </picture>
+  <img
+    height="30px"
+    src="./flag_en-US.png"
+    alt="English (en-US"
+  >
 </a>
 <a href="./README_pt-BR.md">
   <picture>
