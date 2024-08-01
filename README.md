@@ -54,6 +54,22 @@
   <img align="right" alt="Banner">
 </picture>
 
+<!-- WORK FRAMEWORKS -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    height="215px"
+    srcset="https://i.imgur.com/ddhMArB.png">
+"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    height="215px"
+    srcset="https://i.imgur.com/v5QO55B.png"
+  >
+  <img align="left" alt="Work Frameworks">
+</picture>
+
 <!-- FAVORITE LANGUAGES -->
 <picture>
   <source
