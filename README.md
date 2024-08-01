@@ -3,7 +3,7 @@
   <picture>
     <source
       height="30"
-      srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
+      srcset="./flag_en-US.png"
     >
     <img alt="English (en-US)">
   </picture>
@@ -12,7 +12,7 @@
   <picture>
     <source
       height="30"
-      srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/br.svg"
+      srcset="./flag_pt-BR.png"
     >
     <img alt="Português do Brasil (pt-BR)">
   </picture>
