@@ -34,7 +34,7 @@
 > Change the translation by clicking on a flag.
 
 <!-- TITLE -->
-<h1>Ryan Silva <kbd>ryandvl</kbd></h1>
+<h1>Ryan Silva <kbd>ryandvl</kbd> | <img src="https://komarev.com/ghpvc/?username=ryandvl&color=blue" alt="Profile views" /></h1>
 
 <span>Welcome to my profile!</span>
 
@@ -53,7 +53,7 @@
 </picture>
 
 <br />
-
+<br />
 
 <!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/ryandvl" target="_blank">
