@@ -33,11 +33,22 @@
 > [!TIP]
 > Change the translation by clicking on a flag.
 
-
 <!-- TITLE -->
 <h1>Ryan Silva <kbd>ryandvl</kbd></h1>
 
 <span>Welcome to my profile!</span>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./favorite-languages.png"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./favorite-languages.png"
+  >
+  <img alt="Favorite Languages">
+</picture>
 
 <br />
 
