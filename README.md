@@ -4,12 +4,12 @@
     <source
       media="(prefers-color-scheme: dark)"
       height="24px"
-      srcset="./flag_en-US.png"
+      srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
     >
     <source
       media="(prefers-color-scheme: light)"
       height="24px"
-      srcset="./flag_en-US.png"
+      srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
     >
     <img alt="English (en-US)">
   </picture>
@@ -19,12 +19,12 @@
     <source
       media="(prefers-color-scheme: dark)"
       height="24px"
-      srcset="./flag_pt-BR.png"
+      srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/br.svg"
     >
     <source
       media="(prefers-color-scheme: light)"
       height="24px"
-      srcset="./flag_pt-BR.png"
+      srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/br.svg"
     >
     <img alt="Português do Brasil (pt-BR)">
   </picture>
