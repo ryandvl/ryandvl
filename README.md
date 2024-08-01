@@ -4,12 +4,12 @@
     <source
       media="(prefers-color-scheme: dark)"
       height="24px"
-      src="./flag_en-US"
+      srcset="./flag_en-US.png"
     >
     <source
       media="(prefers-color-scheme: light)"
       height="24px"
-      src="./flag_en-US"
+      srcset="./flag_en-US.png"
     >
     <img alt="English (en-US)">
   </picture>
@@ -19,12 +19,12 @@
     <source
       media="(prefers-color-scheme: dark)"
       height="24px"
-      src="./flag_pt-BR"
+      srcset="./flag_pt-BR.png"
     >
     <source
       media="(prefers-color-scheme: light)"
       height="24px"
-      src="./flag_pt-BR"
+      srcset="./flag_pt-BR.png"
     >
     <img alt="Português do Brasil (pt-BR)">
   </picture>
