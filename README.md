@@ -4,12 +4,12 @@
     <source
       media="(prefers-color-scheme: dark)"
       height="24px"
-      src="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
+      src="./flag_en-US"
     >
     <source
       media="(prefers-color-scheme: light)"
       height="24px"
-      src="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
+      src="./flag_en-US"
     >
     <img alt="English (en-US)">
   </picture>
@@ -17,8 +17,14 @@
 <a href="./README_pt-BR.md">
   <picture>
     <source
-      height="30px"
-      srcset="./flag_pt-BR.png"
+      media="(prefers-color-scheme: dark)"
+      height="24px"
+      src="./flag_pt-BR"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      height="24px"
+      src="./flag_pt-BR"
     >
     <img alt="Português do Brasil (pt-BR)">
   </picture>
