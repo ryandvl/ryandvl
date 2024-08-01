@@ -2,7 +2,7 @@
 <a href="./README.md">
   <picture>
     <source
-      height="24"
+      height="30"
       srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/us.svg"
     >
     <img alt="English (en-US)">
@@ -11,7 +11,7 @@
 <a href="./README_pt-BR.md">
   <picture>
     <source
-      height="24"
+      height="30"
       srcset="https://raw.githubusercontent.com/lipis/flag-icons/b919a036693ee1ee0434ef5ae05f93543fc4f437/flags/4x3/br.svg"
     >
     <img alt="Português do Brasil (pt-BR)">
