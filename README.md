@@ -41,10 +41,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
+    height="180px"
     srcset="./favorite-languages.png"
   >
   <source
     media="(prefers-color-scheme: light)"
+    height="180px"
     srcset="./favorite-languages.png"
   >
   <img alt="Favorite Languages">
