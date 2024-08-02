@@ -77,8 +77,12 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
   - **HTML, CSS, JS**
   - and more...
 
-<br align="center" />
-<br align="center" />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <!-- WORK FRAMEWORKS & FAVORITE LANGUAGES -->
 
