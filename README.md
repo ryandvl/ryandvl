@@ -97,7 +97,7 @@
 <br />
 <br />
 
-<h2>Contact</h2>
+<h2>Social Accounts</h2>
 
 <!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/ryandvl" target="_blank">
