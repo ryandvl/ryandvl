@@ -53,34 +53,19 @@
   <img align="right" alt="Banner">
 </picture>
 
-<!-- FAVORITE LANGUAGES -->
+<!-- FAVORITE LANGUAGES & WORK FRAMEWORKS -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="215px"
-    srcset="https://i.imgur.com/VhK0mZG.png"
+    height="500px"
+    srcset="https://i.imgur.com/S2oxR7W.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="215px"
-    srcset="https://i.imgur.com/K5hIDZE.png"
+    height="500px"
+    srcset="https://i.imgur.com/2Sk0ElQ.png"
   >
   <img align="left" alt="Favorite Languages">
-</picture>
-
-<!-- WORK FRAMEWORKS -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    height="215px"
-    srcset="https://i.imgur.com/ddhMArB.png"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    height="215px"
-    srcset="https://i.imgur.com/v5QO55B.png"
-  >
-  <img align="left" alt="Work Frameworks">
 </picture>
 
 <br />
