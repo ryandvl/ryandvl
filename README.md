@@ -57,12 +57,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="500px"
+    height="450px"
     srcset="https://i.imgur.com/S2oxR7W.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="500px"
+    height="450px"
     srcset="https://i.imgur.com/2Sk0ElQ.png"
   >
   <img align="left" alt="Favorite Languages">
