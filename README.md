@@ -39,8 +39,7 @@
 <!-- DESCRIPTION -->
 <p>Welcome to my profile! I'm a <b>Software Engineer</b>.</p>
 
-> [!NOTE]
-> I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learning** student and **Game Development** just for hobby.
+I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learning** student and **Game Development** just for hobby.
 
 <!-- BANNER -->
 <picture>
@@ -79,20 +78,38 @@
   - and more...
 
 <br />
+<br />
+<br />
+<br />
 
-<!-- FAVORITE LANGUAGES & WORK FRAMEWORKS -->
+<!-- FAVORITE LANGUAGES -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="450px"
-    srcset="https://i.imgur.com/S2oxR7W.png"
+    height="215px"
+    srcset="https://i.imgur.com/VhK0mZG.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="450px"
-    srcset="https://i.imgur.com/2Sk0ElQ.png"
+    height="215px"
+    srcset="https://i.imgur.com/K5hIDZE.png"
   >
-  <img align="left" alt="Favorite Languages and Work Frameworks">
+  <img align="left" alt="Favorite Languages">
+</picture>
+
+<!-- WORK FRAMEWORKS -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    height="215px"
+    srcset="https://i.imgur.com/ddhMArB.png"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    height="215px"
+    srcset="https://i.imgur.com/v5QO55B.png"
+  >
+  <img align="center" alt="Work Frameworks">
 </picture>
 
 <br />
