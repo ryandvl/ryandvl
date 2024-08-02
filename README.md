@@ -89,12 +89,12 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="250px"
+    height="220px"
     srcset="https://i.imgur.com/yZGxvcM.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="250px"
+    height="220px"
     srcset="https://i.imgur.com/hvIY2FE.png"
   >
   <img align="center" alt="Favorite Languages">
@@ -103,12 +103,12 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="250px"
+    height="220px"
     srcset="https://i.imgur.com/0QOdRR7.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="250px"
+    height="220px"
     srcset="https://i.imgur.com/DUyg5LG.png"
   >
   <img align="center" alt="Work Frameworks">
