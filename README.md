@@ -38,7 +38,9 @@
 
 <!-- DESCRIPTION -->
 <p>Welcome to my profile! I'm a <b>Software Engineer</b>.</p>
-<p>I usually work on <b>APIs</b>, <b>Web Sites</b>, and <b>Mobile Apps</b>. <b>Machine Learning</b> student and <b>Game Development</b> just for hobby.</p>
+
+> [!NOTE]
+> I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learning** student and **Game Development** just for hobby.
 
 <!-- BANNER -->
 <picture>
@@ -58,15 +60,23 @@
 ### Some information:
 - FullStack Developer (`Always learning`)
 - Knowledge of:
-  - **Git**
+  - **Git, GitHub**
   - **Docker**
   - **Figma**
-  - **HTTP**
+  - **API**
+  - **Clean Code**
 - IDEs:
   - **Visual Studio Code**: Many Languages
-  - **IntelliJ Idea**: Java
+  - **IntelliJ Idea**: Java and Kotlin
 - OS:
   - **Windows**
+- Stacks:
+  - **Node.js**
+  - **ReactJS, React Native, Next.js**
+  - **MongoDB, Firebase**
+  - **SQL**
+  - **HTML, CSS, JS**
+  - and more...
 
 <br />
 
