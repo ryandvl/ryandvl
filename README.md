@@ -81,6 +81,8 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
 <br align="center" />
 <br align="center" />
 <br align="center" />
+<br align="center" />
+<br align="center" />
 
 <!-- FAVORITE LANGUAGES -->
 <picture>
@@ -109,7 +111,7 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
     height="215px"
     srcset="https://i.imgur.com/v5QO55B.png"
   >
-  <img align="center" alt="Work Frameworks">
+  <img align="right" alt="Work Frameworks">
 </picture>
 
 <br />
