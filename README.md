@@ -36,7 +36,9 @@
 <!-- TITLE -->
 <h1>Ryan Silva <kbd>ryandvl</kbd> | <img src="https://komarev.com/ghpvc/?username=ryandvl&color=blue" alt="Profile views" /></h1>
 
-<span>Welcome to my profile!</span>
+<!-- DESCRIPTION -->
+<p>Welcome to my profile! I'm a <b>Software Engineer</b>.</p>
+<p>I usually work on <b>APIs</b>, <b>Web Sites</b>, and <b>Mobile Apps</b>. <b>Machine Learning</b> student and <b>Game Development</b> just for hobby.</p>
 
 <!-- BANNER -->
 <picture>
@@ -53,6 +55,21 @@
   <img align="right" alt="Banner">
 </picture>
 
+### Some information:
+- FullStack Developer (`Always learning`)
+- Knowledge of:
+  - **Git**
+  - **Docker**
+  - **Figma**
+  - **HTTP**
+- IDEs:
+  - **Visual Studio Code**: Many Languages
+  - **IntelliJ Idea**: Java
+- OS:
+  - **Windows**
+
+<br />
+
 <!-- FAVORITE LANGUAGES & WORK FRAMEWORKS -->
 <picture>
   <source
@@ -65,7 +82,7 @@
     height="450px"
     srcset="https://i.imgur.com/2Sk0ElQ.png"
   >
-  <img align="left" alt="Favorite Languages">
+  <img align="left" alt="Favorite Languages and Work Frameworks">
 </picture>
 
 <br />
