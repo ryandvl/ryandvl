@@ -88,12 +88,12 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="215px"
+    height="150px"
     srcset="https://i.imgur.com/bQRiDyH.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="215px"
+    height="150px"
     srcset="https://i.imgur.com/bxg3Coy.png"
   >
   <img align="center" alt="Work Frameworks and Favorite Languages">
