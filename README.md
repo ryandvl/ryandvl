@@ -85,18 +85,33 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
 <br align="center" />
 
 <!-- WORK FRAMEWORKS & FAVORITE LANGUAGES -->
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    height="150px"
-    srcset="https://i.imgur.com/bQRiDyH.png"
+    height="250px"
+    srcset="https://i.imgur.com/yZGxvcM.png"
   >
   <source
     media="(prefers-color-scheme: light)"
-    height="150px"
-    srcset="https://i.imgur.com/bxg3Coy.png"
+    height="250px"
+    srcset="https://i.imgur.com/hvIY2FE.png"
   >
-  <img align="center" alt="Work Frameworks and Favorite Languages">
+  <img align="center" alt="Favorite Languages">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    height="250px"
+    srcset="https://i.imgur.com/0QOdRR7.png"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    height="250px"
+    srcset="https://i.imgur.com/DUyg5LG.png"
+  >
+  <img align="center" alt="Work Frameworks">
 </picture>
 
 <br />
