@@ -79,10 +79,6 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
 
 <br align="center" />
 <br align="center" />
-<br align="center" />
-<br align="center" />
-<br align="center" />
-<br align="center" />
 
 <!-- WORK FRAMEWORKS & FAVORITE LANGUAGES -->
 
