@@ -128,20 +128,6 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <h2>Social Accounts</h2>
 
