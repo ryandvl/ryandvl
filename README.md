@@ -77,10 +77,10 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
   - **HTML, CSS, JS**
   - and more...
 
-<br />
-<br />
-<br />
-<br />
+<br align="center" />
+<br align="center" />
+<br align="center" />
+<br align="center" />
 
 <!-- FAVORITE LANGUAGES -->
 <picture>
@@ -94,7 +94,7 @@ I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learni
     height="215px"
     srcset="https://i.imgur.com/K5hIDZE.png"
   >
-  <img align="left" alt="Favorite Languages">
+  <img align="center" alt="Favorite Languages">
 </picture>
 
 <!-- WORK FRAMEWORKS -->
