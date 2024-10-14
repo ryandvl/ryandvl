@@ -39,7 +39,7 @@
 <!-- DESCRIPTION -->
 <p>Welcome to my profile! I'm a <b>Software Engineer</b>.</p>
 
-I usually work on **APIs**, **Web Sites**, and **Mobile Apps**. **Machine Learning** student and **Game Development** just for hobby.
+My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'm currently studying **Machine Learning**, and I pursue **Game Development** as a personal hobby.
 
 <!-- BANNER -->
 <picture>
