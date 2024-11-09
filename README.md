@@ -70,6 +70,7 @@ My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'
   - **IntelliJ Idea**: Java
 - OS:
   - **Windows**
+  - **Linux**
 - Stacks (I'm not an expert in all of them):
   - **Node.js**
   - **Fastify, NestJS**
