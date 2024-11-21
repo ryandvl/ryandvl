@@ -64,16 +64,17 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
   - **Figma**
   - **API**
   - **Clean Code**
+  - **LeetCode**
 - IDEs:
   - **Visual Studio Code**: Maioria das linguagens
-  - **IntelliJ Idea**: Java e Kotlin
+  - **IntelliJ Idea**: Java
 - Sistema Operacionais:
   - **Windows**
 - Stacks:
   - **Node.js**
+  - **Fastify, NestJS**
   - **ReactJS, React Native, Next.js**
-  - **MongoDB, Firebase**
-  - **SQL**
+  - **MongoDB, Firebase, SQL**
   - **HTML, CSS, JS**
   - e mais...
 
