@@ -70,6 +70,7 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
   - **IntelliJ Idea**: Java
 - Sistema Operacionais:
   - **Windows**
+  - **Linux**
 - Stacks:
   - **Node.js**
   - **Fastify, NestJS**
