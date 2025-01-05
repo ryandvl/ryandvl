@@ -65,9 +65,6 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
   - **API**
   - **Clean Code**
   - **LeetCode**
-- IDEs:
-  - **Visual Studio Code**: Maioria das linguagens
-  - **IntelliJ Idea**: Java
 - Sistema Operacionais:
   - **Windows**
   - **Linux**
