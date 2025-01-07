@@ -82,6 +82,7 @@ My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'
 
 <!-- WORK FRAMEWORKS & FAVORITE LANGUAGES -->
 
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -109,6 +110,7 @@ My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'
   >
   <img align="center" alt="Work Frameworks">
 </picture>
+-->
 
 <br />
 <br />
