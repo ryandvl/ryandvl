@@ -65,9 +65,6 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
   - **API**
   - **Clean Code**
   - **LeetCode**
-- Sistema Operacionais:
-  - **Windows**
-  - **Linux**
 - Stacks:
   - **Node.js**
   - **Fastify, NestJS**
@@ -83,7 +80,7 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
 <br align="center" />
 <br align="center" />
 
-<!-- FAVORITE LANGUAGES -->
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -98,7 +95,6 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
   <img align="center" alt="Favorite Languages">
 </picture>
 
-<!-- WORK FRAMEWORKS -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -112,6 +108,8 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
   >
   <img align="right" alt="Work Frameworks">
 </picture>
+
+-->
 
 <br />
 <br />
