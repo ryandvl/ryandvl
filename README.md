@@ -1,4 +1,4 @@
-<!-- TRANSLATIONS --> 
+<!-- TRANSLATIONS -->  
 <a href="./README.md">
   <picture>
     <source
