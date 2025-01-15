@@ -1,5 +1,5 @@
 <!-- TRANSLATIONS --> 
-<a href="./README.md">
+<a href="./README.md"> 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
