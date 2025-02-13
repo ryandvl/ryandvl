@@ -80,38 +80,6 @@ My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'
 <br />
 <br />
 
-<!-- WORK FRAMEWORKS & FAVORITE LANGUAGES -->
-
-<!--
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    height="220px"
-    srcset="https://i.imgur.com/yZGxvcM.png"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    height="220px"
-    srcset="https://i.imgur.com/hvIY2FE.png"
-  >
-  <img align="center" alt="Favorite Languages">
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    height="220px"
-    srcset="https://i.imgur.com/0QOdRR7.png"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    height="220px"
-    srcset="https://i.imgur.com/DUyg5LG.png"
-  >
-  <img align="center" alt="Work Frameworks">
-</picture>
--->
-
 <br />
 <br />
 
