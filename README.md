@@ -37,7 +37,7 @@
 <h1>Ryan Silva <kbd>ryandvl</kbd> | <img src="https://komarev.com/ghpvc/?username=ryandvl&color=blue" alt="Profile views" /></h1>
 
 <!-- DESCRIPTION -->
-<p>Welcome to my profile! I'm a <b>Software Engineer</b>.</p>
+<p>Welcome to my profile! I'm a <b>FullStack Developer</b>.</p>
 
 My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'm currently studying **Machine Learning**, and I pursue **Game Development** as a personal hobby.
 
@@ -71,7 +71,7 @@ My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'
   - **ReactJS, React Native, Next.js**
   - **MongoDB, Firebase, SQL**
   - **HTML, CSS, JS**
-  - and more...
+  - and always learning...
 
 <br />
 <br />
