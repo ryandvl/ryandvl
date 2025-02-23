@@ -37,7 +37,7 @@
 <h1>Ryan Silva <kbd>ryandvl</kbd> | <img src="https://komarev.com/ghpvc/?username=ryandvl&color=blue" alt="Profile views" /></h1>
 
 <!-- DESCRIPTION -->
-<p>Bem-vindo(a) ao meu perfil! Eu sou um <b>Engenheiro de Software</b>.</p>
+<p>Bem-vindo(a) ao meu perfil! Eu sou um <b>Desenvolvedor FullStack</b>.</p>
 
 Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Estudante de **Aprendizado de Máquina** e **Desenvolvimento de Jogos** apenas por hobbie.
 
@@ -71,7 +71,7 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
   - **ReactJS, React Native, Next.js**
   - **MongoDB, Firebase, SQL**
   - **HTML, CSS, JS**
-  - e mais...
+  - e sempre aprendendo...
 
 <br align="center" />
 <br align="center" />
@@ -79,37 +79,6 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
 <br align="center" />
 <br align="center" />
 <br align="center" />
-
-<!--
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    height="215px"
-    srcset="https://i.imgur.com/VhK0mZG.png"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    height="215px"
-    srcset="https://i.imgur.com/K5hIDZE.png"
-  >
-  <img align="center" alt="Favorite Languages">
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    height="215px"
-    srcset="https://i.imgur.com/ddhMArB.png"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    height="215px"
-    srcset="https://i.imgur.com/v5QO55B.png"
-  >
-  <img align="right" alt="Work Frameworks">
-</picture>
-
--->
 
 <br />
 <br />
