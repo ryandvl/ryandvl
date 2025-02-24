@@ -57,7 +57,7 @@ My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'
 </picture>
 
 ### Some information:
-- FullStack Developer (`Always learning`)
+- FullStack Developer
 - Knowledge of:
   - **Git, GitHub**
   - **Docker**
