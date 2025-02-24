@@ -57,7 +57,7 @@ Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Est
 </picture>
 
 ### Algumas informações:
-- Desenvolvedor FullStack (`Sempre aprendendo`)
+- Desenvolvedor FullStack
 - Conhecimento em:
   - **Git, GitHub**
   - **Docker**
