@@ -39,7 +39,8 @@
 <!-- DESCRIPTION -->
 <p>Welcome to my profile! I'm a <b>FullStack Developer</b>.</p>
 
-My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**. I'm currently studying **Machine Learning**, and I pursue **Game Development** as a personal hobby.
+My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**.
+I'm currently studying **Machine Learning**, and I pursue **Game Development** as a personal hobby.
 
 <!-- BANNER -->
 <picture>
