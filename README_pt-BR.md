@@ -39,7 +39,8 @@
 <!-- DESCRIPTION -->
 <p>Bem-vindo(a) ao meu perfil! Eu sou um <b>Desenvolvedor FullStack</b>.</p>
 
-Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**. Estudante de **Aprendizado de Máquina** e **Desenvolvimento de Jogos** apenas por hobbie.
+Eu normalmente trabalho com **APIs**, **Sites**, and **Aplicativos Mobile**.
+Estudante de **Aprendizado de Máquina** e **Desenvolvimento de Jogos** apenas por hobbie.
 
 <!-- BANNER -->
 <picture>
