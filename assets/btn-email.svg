@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" width="160" height="40">
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity="0.045"/></pattern></defs>
+<polygon points="1,1 151,1 159,9 159,39 9,39 1,31" fill="#24101f" stroke="#ff2d8a" stroke-width="1.5"/>
+<polygon points="1.75,1.75 150.25,1.75 158.25,9.75 158.25,38.25 9.75,38.25 1.75,30.25" fill="url(#scan)"/>
+<rect x="14" y="12" width="22" height="16" rx="2" fill="none" stroke="#ff2d8a" stroke-width="2"/><path d="M15 13.5 L25 21.5 L35 13.5" fill="none" stroke="#ff2d8a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M48.91 15.2H55.994V16.810000000000002H50.814V19.288H55.588V20.87H50.814V23.39H55.994V25.0H48.91ZM59.044000000000004 20.604H63.972V22.2H59.044000000000004ZM67.442 15.2H69.206L72.118 21.528H72.146L75.072 15.2H76.836V25.0H75.002V19.036H74.97399999999999L72.72 23.628H71.544L69.304 19.036H69.276V25.0H67.442ZM83.39999999999999 15.2H85.136L88.72 25.0H86.788L85.99 22.83H82.54599999999999L81.74799999999999 25.0H79.81599999999999ZM85.57 21.262 84.268 17.538H84.24L82.97999999999999 21.262ZM91.77 15.2H93.67399999999999V25.0H91.77ZM97.564 15.2H99.46799999999999V23.39H104.368V25.0H97.564Z" fill="#ffffff"/>
+</svg>
