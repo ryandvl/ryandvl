@@ -25,7 +25,6 @@ I'm currently studying **Machine Learning**, and I pursue **Game Development** a
 
 <p>
   <a href="https://www.linkedin.com/in/ryandvl"><img src="assets/btn-linkedin.svg?v=2" alt="LinkedIn" height="40"></a>&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/~ryandvl"><img src="assets/btn-npm.svg?v=3" alt="npm" height="40"></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ryandvl/"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="40"></a>&nbsp;&nbsp;
   <a href="mailto:ryandvl@proton.me"><img src="assets/btn-email.svg" alt="E-mail: ryandvl@proton.me" height="40"></a>
 </p>
