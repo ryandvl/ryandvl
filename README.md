@@ -8,7 +8,7 @@
 
 <!-- DESCRIPTION -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/section-description-phone.svg">
+  <source media="(max-width: 600px)" srcset="assets/section-description-phone.svg?v=2">
   <img src="assets/section-description-desktop.svg" width="100%" alt="Description">
 </picture>
 
@@ -23,7 +23,9 @@ I'm currently studying **Machine Learning**, and I pursue **Game Development** a
   <img src="assets/section-social-desktop.svg" width="100%" alt="Social">
 </picture>
 
-<a href="https://www.linkedin.com/in/ryandvl"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
-<a href="https://www.npmjs.com/~ryandvl"><img src="assets/btn-npm.svg" alt="npm" height="40"></a>
-<a href="https://leetcode.com/u/ryandvl/"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="40"></a>
-<a href="mailto:ryandvl@proton.me"><img src="assets/btn-email.svg" alt="E-mail: ryandvl@proton.me" height="40"></a>
+<p>
+  <a href="https://www.linkedin.com/in/ryandvl"><img src="assets/btn-linkedin.svg?v=2" alt="LinkedIn" height="40"></a>&nbsp;&nbsp;
+  <a href="https://www.npmjs.com/~ryandvl"><img src="assets/btn-npm.svg?v=3" alt="npm" height="40"></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ryandvl/"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="40"></a>&nbsp;&nbsp;
+  <a href="mailto:ryandvl@proton.me"><img src="assets/btn-email.svg" alt="E-mail: ryandvl@proton.me" height="40"></a>
+</p>
