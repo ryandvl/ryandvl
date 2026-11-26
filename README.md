@@ -19,8 +19,8 @@ I'm currently studying **Machine Learning**, and I pursue **Game Development** a
 
 <!-- STACK -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stacks-phone.svg">
-  <img src="assets/stacks-desktop.svg" width="100%" alt="DEV.STACK — TypeScript, JavaScript, Node.js, NestJS, Fastify, Prisma, REST APIs, React, React Native, Next.js, Tailwind CSS, HTML, CSS, PostgreSQL, MongoDB, Firebase, SQL, Docker, Git, GitHub">
+  <source media="(max-width: 600px)" srcset="assets/stacks-phone.svg?v=2">
+  <img src="assets/stacks-desktop.svg?v=2" width="100%" alt="DEV.STACK — Languages: TypeScript, JavaScript, Python. Backend: Node.js, NestJS, Fastify, Prisma, REST APIs. Frontend: React, React Native, Next.js, Tailwind CSS, HTML, CSS. Database: PostgreSQL, MongoDB, Firebase, SQL. Infra: Docker, Git, GitHub. Main stack: TypeScript, Node.js, React, Next.js, Tailwind CSS, PostgreSQL, Docker, Git, GitHub. And always learning.">
 </picture>
 
 <br/><br/>
