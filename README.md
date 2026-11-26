@@ -19,8 +19,8 @@ I'm currently studying **Machine Learning**, and I pursue **Game Development** a
 
 <!-- SOCIAL -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/section-social-phone.svg">
-  <img src="assets/section-social-desktop.svg" width="100%" alt="Social">
+  <source media="(max-width: 600px)" srcset="assets/section-social-phone.svg?v=2">
+  <img src="assets/section-social-desktop.svg?v=2" width="100%" alt="Social">
 </picture>
 
 <p>
