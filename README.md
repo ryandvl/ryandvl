@@ -8,8 +8,8 @@
 
 <!-- DESCRIPTION -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/section-description-phone.svg?v=3">
-  <img src="assets/section-description-desktop.svg?v=3" width="100%" alt="Description">
+  <source media="(max-width: 600px)" srcset="assets/section-description-phone.svg?v=4">
+  <img src="assets/section-description-desktop.svg?v=4" width="100%" alt="Description">
 </picture>
 
 My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**.
