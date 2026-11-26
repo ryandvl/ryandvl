@@ -17,6 +17,14 @@ I'm currently studying **Machine Learning**, and I pursue **Game Development** a
 
 <br/>
 
+<!-- STACK -->
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stacks-phone.svg">
+  <img src="assets/stacks-desktop.svg" width="100%" alt="DEV.STACK — TypeScript, JavaScript, Node.js, NestJS, Fastify, Prisma, REST APIs, React, React Native, Next.js, Tailwind CSS, HTML, CSS, PostgreSQL, MongoDB, Firebase, SQL, Docker, Git, GitHub">
+</picture>
+
+<br/>
+
 <!-- SOCIAL -->
 <picture>
   <source media="(max-width: 600px)" srcset="assets/section-social-phone.svg?v=2">
