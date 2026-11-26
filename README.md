@@ -23,7 +23,7 @@ I'm currently studying **Machine Learning**, and I pursue **Game Development** a
   <img src="assets/stacks-desktop.svg" width="100%" alt="DEV.STACK — TypeScript, JavaScript, Node.js, NestJS, Fastify, Prisma, REST APIs, React, React Native, Next.js, Tailwind CSS, HTML, CSS, PostgreSQL, MongoDB, Firebase, SQL, Docker, Git, GitHub">
 </picture>
 
-<br/>
+<br/><br/>
 
 <!-- SOCIAL -->
 <picture>
