@@ -1,7 +1,7 @@
 <!-- HERO CARD -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-phone.svg?v=4">
-  <img src="assets/hero-desktop.svg?v=4" width="100%" alt="Ryan, Full Stack Developer. Web, mobile e games.">
+  <source media="(max-width: 600px)" srcset="assets/hero-phone.svg?v=8">
+  <img src="assets/hero-desktop.svg?v=8" width="100%" alt="Ryan, Full Stack Developer. Web, mobile e games.">
 </picture>
 
 <br/><br/>
