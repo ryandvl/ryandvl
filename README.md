@@ -1,15 +1,15 @@
 <!-- HERO CARD -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-phone.svg?v=8">
-  <img src="assets/hero-desktop.svg?v=8" width="100%" alt="Ryan, Full Stack Developer. Web, mobile e games.">
+  <source media="(max-width: 600px)" srcset="assets/hero-phone.svg">
+  <img src="assets/hero-desktop.svg" width="100%" alt="Ryan, Full Stack Developer. Web, mobile e games.">
 </picture>
 
 <br/><br/>
 
 <!-- DESCRIPTION -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/section-description-phone.svg?v=4">
-  <img src="assets/section-description-desktop.svg?v=4" width="100%" alt="Description">
+  <source media="(max-width: 600px)" srcset="assets/section-description-phone.svg">
+  <img src="assets/section-description-desktop.svg" width="100%" alt="Description">
 </picture>
 
 My main focus is on working with **APIs**, **Websites**, and **Mobile Apps**.
@@ -27,12 +27,12 @@ I'm currently studying **Machine Learning**, and I pursue **Game Development** a
 
 <!-- SOCIAL -->
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/section-social-phone.svg?v=2">
-  <img src="assets/section-social-desktop.svg?v=2" width="100%" alt="Social">
+  <source media="(max-width: 600px)" srcset="assets/section-social-phone.svg">
+  <img src="assets/section-social-desktop.svg" width="100%" alt="Social">
 </picture>
 
 <p>
-  <a href="https://www.linkedin.com/in/ryandvl"><img src="assets/btn-linkedin.svg?v=2" alt="LinkedIn" height="40"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ryandvl"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ryandvl/"><img src="assets/btn-leetcode.svg" alt="LeetCode" height="40"></a>&nbsp;&nbsp;
   <a href="mailto:ryandvl@proton.me"><img src="assets/btn-email.svg" alt="E-mail: ryandvl@proton.me" height="40"></a>
 </p>
